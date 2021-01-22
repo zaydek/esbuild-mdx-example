@@ -9,6 +9,6 @@
 	},
 	"devDependencies": {
 		"esbuild": "^0.8.34",
-		"esbuild-mdx": "^0.1.0"
+		"esbuild-mdx": "^0.1.1"
 	}
 }
