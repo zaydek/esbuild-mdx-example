@@ -375,10 +375,10 @@ detab@2.0.4:
   dependencies:
     repeat-string "^1.5.4"
 
-esbuild-mdx@^0.2.0-rc.0:
-  version "0.2.0-rc.0"
-  resolved "https://registry.yarnpkg.com/esbuild-mdx/-/esbuild-mdx-0.2.0-rc.0.tgz#ada01db642cd09a0d43e51d41273916b6835b69e"
-  integrity sha512-DsQyrbuukB5SnQHpb97gzv/yObDjy7zFo4s3zakzD7AgARvvr24Botp0YFyFCUw7RZrDHKXMtTuSSr+tkg5FdA==
+esbuild-mdx@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/esbuild-mdx/-/esbuild-mdx-0.2.0.tgz#401da5982d6764dd3b4c18894c4fe1a776f96cc4"
+  integrity sha512-g2OhoClUGSFvyojY7YuHViP2V3oJU/tbG2c7GvIaaMeXvScLceGNZFnd8MW6oc/3Y/q1qwVkc8ZvLWc4j/5cMQ==
   dependencies:
     "@mdx-js/mdx" "^1.6.22"
 
