@@ -8,7 +8,7 @@ require("esbuild")
 		loader: {
 			".js": "jsx",
 		},
-		outfile: "build/app.js",
-		plugins: [require("esbuild-mdx")],
+		outfile: "out/app.js",
+		plugins: [require("esbuild-mdx")()],
 	})
 	.catch(() => process.exit(1))
